@@ -5,7 +5,6 @@
 // For every number divisible by 3 and 5 print "FizzBuzz"
 // else, print the integer
 
-import java.lang.Object;
 public class Main
 {
     public static void main(String[] args)
